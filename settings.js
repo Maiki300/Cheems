@@ -108,7 +108,7 @@ global.mess = {
     success: 'Done ✓',
     admin: 'how pathetic of you to think you can use admin commands 😂🤣!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    owner: 'oml🤣😂 this command is for my Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
